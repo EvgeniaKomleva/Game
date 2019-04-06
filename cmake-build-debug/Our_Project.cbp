@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="Our_Project"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/home/evgenia/CLionProjects/Our_Project/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/evgenia/CLionProjects/Our_Project/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/evgenia/CLionProjects/Our_Project/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/evgenia/CLionProjects/Our_Project/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/evgenia/CLionProjects/Our_Project/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/home/evgenia/CLionProjects/Our_Project/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/evgenia/CLionProjects/Our_Project/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/evgenia/CLionProjects/Our_Project/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/evgenia/CLionProjects/Our_Project/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/evgenia/CLionProjects/Our_Project/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Our_Project">
+				<Option output="/home/evgenia/CLionProjects/Our_Project/cmake-build-debug/Our_Project" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/evgenia/CLionProjects/Our_Project/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/7"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/7"/>
+					<Add directory="/usr/include/c++/7/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/evgenia/CLionProjects/Our_Project/cmake-build-debug/Makefile&quot;  VERBOSE=1 Our_Project"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/evgenia/CLionProjects/Our_Project/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/evgenia/CLionProjects/Our_Project/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/evgenia/CLionProjects/Our_Project/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Our_Project/fast">
+				<Option output="/home/evgenia/CLionProjects/Our_Project/cmake-build-debug/Our_Project" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/evgenia/CLionProjects/Our_Project/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/7"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/7"/>
+					<Add directory="/usr/include/c++/7/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/evgenia/CLionProjects/Our_Project/cmake-build-debug/Makefile&quot;  VERBOSE=1 Our_Project/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/evgenia/CLionProjects/Our_Project/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/evgenia/CLionProjects/Our_Project/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/evgenia/CLionProjects/Our_Project/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/home/evgenia/CLionProjects/Our_Project/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/evgenia/CLionProjects/Our_Project/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/evgenia/CLionProjects/Our_Project/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/evgenia/CLionProjects/Our_Project/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/evgenia/CLionProjects/Our_Project/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/home/evgenia/CLionProjects/Our_Project/TinyXML/tinystr.cpp">
+			<Option target="Our_Project"/>
+		</Unit>
+		<Unit filename="/home/evgenia/CLionProjects/Our_Project/TinyXML/tinystr.h">
+			<Option target="Our_Project"/>
+		</Unit>
+		<Unit filename="/home/evgenia/CLionProjects/Our_Project/TinyXML/tinyxml.cpp">
+			<Option target="Our_Project"/>
+		</Unit>
+		<Unit filename="/home/evgenia/CLionProjects/Our_Project/TinyXML/tinyxml.h">
+			<Option target="Our_Project"/>
+		</Unit>
+		<Unit filename="/home/evgenia/CLionProjects/Our_Project/TinyXML/tinyxmlerror.cpp">
+			<Option target="Our_Project"/>
+		</Unit>
+		<Unit filename="/home/evgenia/CLionProjects/Our_Project/TinyXML/tinyxmlparser.cpp">
+			<Option target="Our_Project"/>
+		</Unit>
+		<Unit filename="/home/evgenia/CLionProjects/Our_Project/images/MilesTailsPrower.gif">
+			<Option target="Our_Project"/>
+		</Unit>
+		<Unit filename="/home/evgenia/CLionProjects/Our_Project/images/Tiny_Chao_Garden_SonicAdv_3_Tile_Sheet.png">
+			<Option target="Our_Project"/>
+		</Unit>
+		<Unit filename="/home/evgenia/CLionProjects/Our_Project/level.h">
+			<Option target="Our_Project"/>
+		</Unit>
+		<Unit filename="/home/evgenia/CLionProjects/Our_Project/level.hpp">
+			<Option target="Our_Project"/>
+		</Unit>
+		<Unit filename="/home/evgenia/CLionProjects/Our_Project/main.cpp">
+			<Option target="Our_Project"/>
+		</Unit>
+		<Unit filename="/home/evgenia/CLionProjects/Our_Project/map.h">
+			<Option target="Our_Project"/>
+		</Unit>
+		<Unit filename="/home/evgenia/CLionProjects/Our_Project/map.tmx">
+			<Option target="Our_Project"/>
+		</Unit>
+		<Unit filename="/home/evgenia/CLionProjects/Our_Project/map1.tmx">
+			<Option target="Our_Project"/>
+		</Unit>
+		<Unit filename="/home/evgenia/CLionProjects/Our_Project/mission.h">
+			<Option target="Our_Project"/>
+		</Unit>
+		<Unit filename="/home/evgenia/CLionProjects/Our_Project/view.h">
+			<Option target="Our_Project"/>
+		</Unit>
+		<Unit filename="/home/evgenia/CLionProjects/TestTiled/images/shamaich.png">
+			<Option target="Our_Project"/>
+		</Unit>
+		<Unit filename="/home/evgenia/CLionProjects/Our_Project/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>
